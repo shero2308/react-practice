@@ -1,0 +1,10 @@
+.student{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2em;
+    padding: 10px;
+    border: 1px solid hsla(0, 0%, 49%, 0.438);
+}
+
+.student p{
+    margin: 0%;
+}
