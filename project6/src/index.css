@@ -1,0 +1,23 @@
+.item-category{
+    font-size: 3em;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    color: hsl(0, 0%, 25%);
+    margin-bottom: 10px;
+    border: 5px solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.item-list li{
+    font-size: 2em;
+    color: hsl(0, 0%, 30%);
+    text-align: center;
+    list-style: none;
+    margin: 0%;
+}
+.item-list li:hover{
+    color: hsl(0, 0%, 45%);
+    cursor: pointer;
+}
